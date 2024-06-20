@@ -1,7 +1,7 @@
 /* General body styling */
 body {
     font-family: 'Oswald', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #f7f1c6;
     color: #333;
     line-height: 1.6;
     padding: 20px;
@@ -39,7 +39,7 @@ body {
 
 /* Result section styling */
 .result {
-    background-color: #e2e2e2;
+    background-color: #d5d0d0;
     text-align: center;
     padding: 20px;
     margin-top: 20px;
