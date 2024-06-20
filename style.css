@@ -27,10 +27,14 @@ body {
 }
 
 .questions img {
-    width: 100%; /* Make images responsive */
+    width: 30%; /* Make images responsive */
     height: auto;
     border-radius: 8px;
     margin-top: 10px;
+    display: block;
+}
+.button{
+    text-align: center;
 }
 
 /* Result section styling */
@@ -42,3 +46,4 @@ body {
     border-radius: 8px;
     font-size: 1.2em;
 }
+
